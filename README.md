@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Major</h3>
 
 # 💫 About Me:
-🔭 I am currently working on a freelance contract as a graphic designer for social media purposes.<br>🌱 I am currently learning to be a frontend developer and also a web developer by learning HTML, CSS, Javascript, PHP, and others.<br>📫 How to reach me - ridhoahmadirawan281@gmail.com.<br>⚡ Fun fact - I like to watch movies
+I am currently learning to be a frontend developer and also a web developer by learning HTML, CSS, Javascript, PHP, and others.<br>📫 How to reach me - ridhoahmadirawan281@gmail.com.<br>⚡ Fun fact - I like to watch movies
 
 
 ## 🌐 Socials:
