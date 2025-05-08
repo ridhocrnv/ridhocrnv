@@ -15,3 +15,4 @@ I am currently learning to be a frontend developer and also a web developer by l
 ![](https://nirzak-streak-stats.vercel.app/?user=ridhocrnv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
