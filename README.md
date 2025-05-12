@@ -65,4 +65,4 @@
 # 📊 GitHub Stats:
 
 ![ridhocrnv GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhocrnv&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com/?user=ridhocrnv&theme=default)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv&layout=compact)
