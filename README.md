@@ -66,7 +66,3 @@
 
 ![ridhocrnv GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhocrnv&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com/?user=ridhocrnv&theme=default)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv&layout=compact)
-
-<p align="left"><strong>"Wanna play a game? I promise I won't cheat... much." 😏</strong></p>
-
-<img src="https://raw.githubusercontent.com/ridhocrnv/ridhocrnv/output/snake.svg" alt="Snake animation" />
