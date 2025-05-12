@@ -66,3 +66,19 @@
 
 ![ridhocrnv GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhocrnv&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com/?user=ridhocrnv&theme=default)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv&layout=compact)
+
+<p align="left">"Wanna play a game? I promise I won't cheat... much." 😏</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhocrnv/ridhocrnv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhocrnv/ridhocrnv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ridhocrnv/ridhocrnv/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/ridhocrnv/ridhocrnv/output/snake.svg" alt="Snake animation" />
+
+###
