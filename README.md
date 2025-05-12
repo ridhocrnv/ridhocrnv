@@ -11,7 +11,8 @@
 
 <br/>
 
-![Coding Meme](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1dmdld2N0Z3NhNGIxa3p3dGNxb3J0YnNjM3BmM3duZTgyZWczZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif)
+![Coding Meme](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+)
 
 ---
 
