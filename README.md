@@ -1,5 +1,8 @@
 <h1 align="center">Hello World! I'm Ridho Ahmad Irawan 👋</h1>
 <h3 align="center">Computer Science Major</h3>
+<br />
+
+![Header](assets/github-header-image.png)
 
 # 💫 About Me:
 
@@ -10,9 +13,6 @@
 - 😁😁😁😁
 
 <br/>
-
-![Coding Meme](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
-)
 
 ---
 
