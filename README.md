@@ -64,6 +64,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ridhocrnv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![ridhocrnv GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhocrnv&show_icons=true&theme=transparent)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ridhocrnv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv&layout=compact)
