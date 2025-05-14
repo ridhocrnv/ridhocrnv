@@ -18,7 +18,7 @@
 
 ## 🌐 Socials :
 
-## [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ridhocrnv) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv) [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/ridhocrnv/1299633929669836802)
+## [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ridhocrnv) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv) [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1299633929669836802)
 
 ## 💻 Skills :
 
