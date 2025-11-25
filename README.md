@@ -19,7 +19,7 @@
 
 ## 🌐 Socials :
 
-## [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ridhocrnv) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv)[![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ridho-ahmad-irawan/)
+## [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ridhocrnv) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ridho-ahmad-irawan/)
 
 ## 💻 Skills :
 
