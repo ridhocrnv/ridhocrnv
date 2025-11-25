@@ -23,7 +23,7 @@
 
 ## 💻 Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,vue,react,mysql,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,vue,react,mysql,figma,vscode)](https://skillicons.dev)
 
 ---
 
