@@ -19,11 +19,11 @@
 
 ## 🌐 Socials :
 
-## [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ridhocrnv) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv) [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1299633929669836802)
+## [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ridhocrnv) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv)[![Github](https://skillicons.dev/icons?i=github)](https://github.com/ridhocrnv) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ridho-ahmad-irawan/)
 
 ## 💻 Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,vue,react,mysql,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,tailwind,vue,react,mysql,figma,vscode)](https://skillicons.dev)
 
 ---
 
