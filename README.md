@@ -10,7 +10,7 @@
 - 🔭 I am currently studying at <strong>Halu Oleo University</strong>
 - 🌱 I am currently learning <strong>JavaScript</strong>
 - 📫 How to reach me: ridhoahmadirawan281@gmail.com
-- ⚡ Fun fact: I like to <strong>watch movies</strong> and <strong>listen to music</strong>
+- ⚡ Fun fact: I’m currently learning to balance <strong>semicolons</strong> and <strong>sleep.</strong>
 - 😁😁😁😁
 
 <br/>
