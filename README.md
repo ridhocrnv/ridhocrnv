@@ -8,7 +8,7 @@
 # 💫 About Me:
 
 - 🔭 I am currently studying at <strong>Halu Oleo University</strong>
-- 🌱 I am currently learning <strong>JavaScript</strong> and <strong>Python</strong>
+- 🌱 I am currently learning <strong>Vue.js</strong>
 - 📫 How to reach me: ridhoahmadirawan281@gmail.com
 - ⚡ Fun fact: I’m currently learning to balance <strong>semicolons</strong> and <strong>sleep.</strong>
 - 😁😁😁😁
