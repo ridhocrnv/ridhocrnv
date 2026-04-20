@@ -30,3 +30,7 @@
 ## 📊 GitHub Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ridhocrnv)](https://git.io/streak-stats)
+
+## 🛠️ GitHub Top Langs :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhocrnv)](https://github.com/anuraghazra/github-readme-stats)
